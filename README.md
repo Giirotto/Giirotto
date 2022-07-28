@@ -1,4 +1,4 @@
-## Olá! Eu sou o Raffael Girotto!
+## Olá! Eu sou o Raffael Girotto.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=giirotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
