@@ -1,8 +1,4 @@
-### Olá 👋
-
-
-- 🔭 Atualmente trabalho como analista de QA na Justa, com foco em automação de testes com cypress.
-
+### Olá! Eu sou o Raffael Girotto 👋
 <div align="center">
   <a href="https://github.com/giirotto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giirotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
