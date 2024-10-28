@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="left">Social media</h2>
+<h2 align="left">Contact</h2>
 
 ###
 
@@ -57,13 +57,6 @@
   <a href="https://www.linkedin.com/in/raffael-girotto-dionisio-2796941b7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://justacomvc.slack.com/team/U06G4SV9TR9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Giirotto/Giirotto/output/snake.svg" alt="Snake animation" />
 
 ###
